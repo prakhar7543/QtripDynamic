@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/adventures", "destination": "/pages/adventures/index.html" },
+    { "source": "/adventures/details", "destination": "/pages/adventures/detail/index.html" },
+    { "source": "/**", "destination": "/index.html" }
+  ]
+}
