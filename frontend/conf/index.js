@@ -6,5 +6,5 @@
 // const config = { backendEndpoint: "http://localhost:8082" };
 // export default config;
 
-const config = { backendEndpoint: "https://prakhar7543-me-qtripdynamic-2.onrender.com" };
+const config = { backendEndpoint: "https://qtripdynamic-31vo.onrender.com" };
 export default config;
